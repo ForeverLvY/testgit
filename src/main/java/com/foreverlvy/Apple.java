@@ -5,6 +5,6 @@ package com.foreverlvy;
  */
 public class Apple {
     public static void main(String[] args) {
-        System.out.println("新建了一个无用分支，大爷先提交了");
+        System.out.println("新建了一个无用分支，大爷先提交了222");
     }
 }
